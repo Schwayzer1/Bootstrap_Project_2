@@ -55,6 +55,9 @@ section#instructors .socials i:hover {
 /*! ----------- 4- STUDENTS SECTION ----------*/
 
 /*! ----------- 5- COURSES SECTION ----------- */
+#courses .nav-link.active {
+  background-color: #dc3545;
+}
 
 /*! ----------- 6- CONTACT SECTION ------------ */
 
